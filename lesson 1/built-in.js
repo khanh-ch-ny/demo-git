@@ -12,3 +12,5 @@ setTimeout(function(){
 setInterval(function()  {
     console.log('thong bao' + Math.random() )
 }, 1000);
+
+//alo alo
